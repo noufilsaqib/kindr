@@ -1,6 +1,7 @@
 # Kindr - Volunteer App
-> A web app that connects volunteers seeking opportunities and organizations hosting events by allowing volunteers to apply for available events and organizations to create new volunteer opportunities.<br />
-> View the project [_here_](https://getkindr.com/).
+> A gamified web app that connects volunteers seeking opportunities and organizations hosting events by allowing volunteers to apply for available events and organizations to create new volunteer opportunities.
+
+View the project [_here_](https://getkindr.com/).
 
 ## Table of Contents
 * [Screenshots](#screenshots)
